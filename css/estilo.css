@@ -1,0 +1,26 @@
+img {
+float:right
+
+
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.primeiro{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.ultimo{
+    margin-top: 50px;
+    text-align: center;
+
+
+}
+
+.texto {
+    margin-left: 50px;
+}
